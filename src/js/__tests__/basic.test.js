@@ -1,4 +1,4 @@
-import sum from '../basic.js';
+import sum from '../basic';
 
 describe('sum', () => {
   test('should sum positive numbers', () => {

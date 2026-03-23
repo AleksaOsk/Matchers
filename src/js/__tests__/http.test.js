@@ -1,4 +1,4 @@
-import { httpGet, httpPost } from '../http.js';
+import { httpGet, httpPost } from '../http';
 
 describe('http functions', () => {
   test('httpGet should throw error with url', () => {
